@@ -1,0 +1,29 @@
+# Maven
+**/target/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Java
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
